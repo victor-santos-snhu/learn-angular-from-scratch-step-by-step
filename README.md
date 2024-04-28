@@ -1,3 +1,5 @@
+Below is the Angular Tutorial as was forked. I have uploaded my Final Reflection to a new folder for the class I undertook for CS-470 at SNHU in early 2024. The link to my presentation is here: https://youtu.be/KgNgPeaQGdc
+
 # Angular Tutorial: Learn Angular from scratch step by step
 
 This project is part of Learn Angular from scratch step by step tutorial where we explore from the basic concepts and why’s of Angular Framework to building a complete Angular app using Angular Material components.
